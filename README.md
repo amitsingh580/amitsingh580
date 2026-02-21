@@ -18,7 +18,7 @@ I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed RepO
 ![](https://github-contributor-stats.vercel.app/api?username=amitsingh580&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
